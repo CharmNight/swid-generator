@@ -1,5 +1,7 @@
 SWID (Java Library)
 
+未发布 (测试学习使用)
+
 [swid-generator](https://github.com/Labs64/swid-generator) 并没有兼容JDK17, 简单升级了下POM文件. 
 核心修改:
 - 替换 `javax` 相关依赖.
