@@ -1,0 +1,32 @@
+*.class
+*.log
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see https://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+target
+.idea
+*.iml
+
+# Eclipse #
+.classpath
+.project
+bin/**
+.settings/
+
+# VSCode
+.vscode
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
